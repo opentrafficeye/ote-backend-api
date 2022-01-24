@@ -1,0 +1,5 @@
+fastapi~=0.73.0
+uvicorn~=0.17.0
+SQLAlchemy~=1.4.31
+psycopg2~=2.9.3
+bcrypt~=3.2.0
